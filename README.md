@@ -2,7 +2,8 @@
 
 This is a React-based web application designed as a part of the "Take Home" project.
 
-To see the final result, visit [https://canonical-blog-cards.vercel.app/](https://canonical-blog-cards.vercel.app/).
+To see the final result, visit [https://canonical-blog-cards.vercel.app/](https://canonical-blog-cards.vercel.app/){:target="_blank"}.
+
 
 ## Prerequisites
 
