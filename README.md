@@ -2,7 +2,7 @@
 
 This is a React-based web application designed as a part of the "Take Home" project.
 
-To see the final result isit https://canonical-blog-cards.vercel.app/
+To see the final result visit https://canonical-blog-cards.vercel.app/
 
 ## Prerequisites
 
@@ -21,12 +21,14 @@ To install the Take Home Project, follow these steps:
      ```bash 
       npm install
 
+## Test 
+
+To test the application:
+    
+    npm test
+    
 ## Using Take Home Project
 
-1. To run the application in development mode:
-    ```bash
-    npm start
+To run the application in development mode:
 
-## Test 
-    ```bash
-    npm test
+    npm start
